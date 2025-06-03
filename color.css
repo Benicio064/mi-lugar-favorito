@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(224, 238, 233);
+}
+
+.papu{
+    background-color: rgb(255, 5, 80);
+    font-size: 36px;
+    text-align: center;
+}
+
+.dado{
+    background-color: darkorange;
+    font-size: 36px;
+    text-align: center;
+}
+
+.capo{
+    background-color: dodgerblue;
+    font-size: 36px;
+    text-align: center;
+}
